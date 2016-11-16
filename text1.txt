@@ -1,0 +1,14 @@
+//TIME
+16:10:31
+//Сurrency pair
+EUR/USD
+//TIME PERIOD
+H4
+//order
+BUY
+//Deposit in USD
+100.0
+//CURRENT PRICE
+1.3145
+//take profit
+1.3210
