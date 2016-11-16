@@ -1,2 +1,3 @@
 # ROBOT FOREX
-Example program: read data from fail named by text1.txt, and them create and write data to the text2.txt.
+Example program: read dates from file named by text1.txt, and them create and write dates to the text2.txt.
+It is only begining!
